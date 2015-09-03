@@ -1,0 +1,22 @@
+{
+  "name": "mocha-test",
+  "version": "0.0.1",
+  "description": "Playing around with mocha",
+  "main": "runner.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "expect.js": "^0.3.1",
+    "jquery": "^1.11.3"
+  },
+  "scripts": {
+    "test": "explorer file:///C:/workbench/scratch/mocha-test/runner.html"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "gregor woiwode",
+  "license": "MIT"
+}
