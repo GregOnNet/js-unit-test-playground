@@ -8,6 +8,6 @@ These are the first steps to run javascript tests inside the browser.
 $ npm install
 $ npm test
 ```
-## Trpubleshooting
+## Troubleshooting
 
 If `npm test` does not work simply open `runner.html` in your browser.
